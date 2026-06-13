@@ -22,12 +22,12 @@
             "type": "other"
           }
         },
-        "id": "xy-edge__NVIDIAEmbeddingsComponent-1cIgo{œdataTypeœ:œNVIDIAEmbeddingsComponentœ,œidœ:œNVIDIAEmbeddingsComponent-1cIgoœ,œnameœ:œembeddingsœ,œoutput_typesœ:[œEmbeddingsœ]}-Chroma-Zy7HS{œfieldNameœ:œembeddingœ,œidœ:œChroma-Zy7HSœ,œinputTypesœ:[œEmbeddingsœ],œtypeœ:œotherœ}",
+        "id": "xy-edge__NVIDIAEmbeddingsComponent-1cIgo{\u0153dataType\u0153:\u0153NVIDIAEmbeddingsComponent\u0153,\u0153id\u0153:\u0153NVIDIAEmbeddingsComponent-1cIgo\u0153,\u0153name\u0153:\u0153embeddings\u0153,\u0153output_types\u0153:[\u0153Embeddings\u0153]}-Chroma-Zy7HS{\u0153fieldName\u0153:\u0153embedding\u0153,\u0153id\u0153:\u0153Chroma-Zy7HS\u0153,\u0153inputTypes\u0153:[\u0153Embeddings\u0153],\u0153type\u0153:\u0153other\u0153}",
         "selected": false,
         "source": "NVIDIAEmbeddingsComponent-1cIgo",
-        "sourceHandle": "{œdataTypeœ:œNVIDIAEmbeddingsComponentœ,œidœ:œNVIDIAEmbeddingsComponent-1cIgoœ,œnameœ:œembeddingsœ,œoutput_typesœ:[œEmbeddingsœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153NVIDIAEmbeddingsComponent\u0153,\u0153id\u0153:\u0153NVIDIAEmbeddingsComponent-1cIgo\u0153,\u0153name\u0153:\u0153embeddings\u0153,\u0153output_types\u0153:[\u0153Embeddings\u0153]}",
         "target": "Chroma-Zy7HS",
-        "targetHandle": "{œfieldNameœ:œembeddingœ,œidœ:œChroma-Zy7HSœ,œinputTypesœ:[œEmbeddingsœ],œtypeœ:œotherœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153embedding\u0153,\u0153id\u0153:\u0153Chroma-Zy7HS\u0153,\u0153inputTypes\u0153:[\u0153Embeddings\u0153],\u0153type\u0153:\u0153other\u0153}"
       },
       {
         "animated": false,
@@ -54,12 +54,12 @@
             "type": "other"
           }
         },
-        "id": "xy-edge__File-hyjDY{œdataTypeœ:œFileœ,œidœ:œFile-hyjDYœ,œnameœ:œdataframeœ,œoutput_typesœ:[œTableœ]}-SplitText-fJc4V{œfieldNameœ:œdata_inputsœ,œidœ:œSplitText-fJc4Vœ,œinputTypesœ:[œDataœ,œJSONœ,œDataFrameœ,œTableœ,œMessageœ],œtypeœ:œotherœ}",
+        "id": "xy-edge__File-hyjDY{\u0153dataType\u0153:\u0153File\u0153,\u0153id\u0153:\u0153File-hyjDY\u0153,\u0153name\u0153:\u0153dataframe\u0153,\u0153output_types\u0153:[\u0153Table\u0153]}-SplitText-fJc4V{\u0153fieldName\u0153:\u0153data_inputs\u0153,\u0153id\u0153:\u0153SplitText-fJc4V\u0153,\u0153inputTypes\u0153:[\u0153Data\u0153,\u0153JSON\u0153,\u0153DataFrame\u0153,\u0153Table\u0153,\u0153Message\u0153],\u0153type\u0153:\u0153other\u0153}",
         "selected": false,
         "source": "File-hyjDY",
-        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-hyjDYœ,œnameœ:œdataframeœ,œoutput_typesœ:[œTableœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153File\u0153,\u0153id\u0153:\u0153File-hyjDY\u0153,\u0153name\u0153:\u0153dataframe\u0153,\u0153output_types\u0153:[\u0153Table\u0153]}",
         "target": "SplitText-fJc4V",
-        "targetHandle": "{œfieldNameœ:œdata_inputsœ,œidœ:œSplitText-fJc4Vœ,œinputTypesœ:[œDataœ,œJSONœ,œDataFrameœ,œTableœ,œMessageœ],œtypeœ:œotherœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153data_inputs\u0153,\u0153id\u0153:\u0153SplitText-fJc4V\u0153,\u0153inputTypes\u0153:[\u0153Data\u0153,\u0153JSON\u0153,\u0153DataFrame\u0153,\u0153Table\u0153,\u0153Message\u0153],\u0153type\u0153:\u0153other\u0153}"
       },
       {
         "animated": false,
@@ -82,12 +82,12 @@
             "type": "other"
           }
         },
-        "id": "xy-edge__Chroma-Zy7HS{œdataTypeœ:œChromaœ,œidœ:œChroma-Zy7HSœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}-ToolCallingAgent-vkEj2{œfieldNameœ:œtoolsœ,œidœ:œToolCallingAgent-vkEj2œ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}",
+        "id": "xy-edge__Chroma-Zy7HS{\u0153dataType\u0153:\u0153Chroma\u0153,\u0153id\u0153:\u0153Chroma-Zy7HS\u0153,\u0153name\u0153:\u0153component_as_tool\u0153,\u0153output_types\u0153:[\u0153Tool\u0153]}-ToolCallingAgent-vkEj2{\u0153fieldName\u0153:\u0153tools\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153inputTypes\u0153:[\u0153Tool\u0153],\u0153type\u0153:\u0153other\u0153}",
         "selected": false,
         "source": "Chroma-Zy7HS",
-        "sourceHandle": "{œdataTypeœ:œChromaœ,œidœ:œChroma-Zy7HSœ,œnameœ:œcomponent_as_toolœ,œoutput_typesœ:[œToolœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153Chroma\u0153,\u0153id\u0153:\u0153Chroma-Zy7HS\u0153,\u0153name\u0153:\u0153component_as_tool\u0153,\u0153output_types\u0153:[\u0153Tool\u0153]}",
         "target": "ToolCallingAgent-vkEj2",
-        "targetHandle": "{œfieldNameœ:œtoolsœ,œidœ:œToolCallingAgent-vkEj2œ,œinputTypesœ:[œToolœ],œtypeœ:œotherœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153tools\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153inputTypes\u0153:[\u0153Tool\u0153],\u0153type\u0153:\u0153other\u0153}"
       },
       {
         "animated": false,
@@ -110,12 +110,12 @@
             "type": "model"
           }
         },
-        "id": "xy-edge__IBMwatsonxModel-izJsX{œdataTypeœ:œIBMwatsonxModelœ,œidœ:œIBMwatsonxModel-izJsXœ,œnameœ:œmodel_outputœ,œoutput_typesœ:[œLanguageModelœ]}-ToolCallingAgent-vkEj2{œfieldNameœ:œmodelœ,œidœ:œToolCallingAgent-vkEj2œ,œinputTypesœ:[œLanguageModelœ],œtypeœ:œmodelœ}",
+        "id": "xy-edge__IBMwatsonxModel-izJsX{\u0153dataType\u0153:\u0153IBMwatsonxModel\u0153,\u0153id\u0153:\u0153IBMwatsonxModel-izJsX\u0153,\u0153name\u0153:\u0153model_output\u0153,\u0153output_types\u0153:[\u0153LanguageModel\u0153]}-ToolCallingAgent-vkEj2{\u0153fieldName\u0153:\u0153model\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153inputTypes\u0153:[\u0153LanguageModel\u0153],\u0153type\u0153:\u0153model\u0153}",
         "selected": false,
         "source": "IBMwatsonxModel-izJsX",
-        "sourceHandle": "{œdataTypeœ:œIBMwatsonxModelœ,œidœ:œIBMwatsonxModel-izJsXœ,œnameœ:œmodel_outputœ,œoutput_typesœ:[œLanguageModelœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153IBMwatsonxModel\u0153,\u0153id\u0153:\u0153IBMwatsonxModel-izJsX\u0153,\u0153name\u0153:\u0153model_output\u0153,\u0153output_types\u0153:[\u0153LanguageModel\u0153]}",
         "target": "ToolCallingAgent-vkEj2",
-        "targetHandle": "{œfieldNameœ:œmodelœ,œidœ:œToolCallingAgent-vkEj2œ,œinputTypesœ:[œLanguageModelœ],œtypeœ:œmodelœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153model\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153inputTypes\u0153:[\u0153LanguageModel\u0153],\u0153type\u0153:\u0153model\u0153}"
       },
       {
         "animated": false,
@@ -142,12 +142,12 @@
             "type": "other"
           }
         },
-        "id": "xy-edge__ToolCallingAgent-vkEj2{œdataTypeœ:œToolCallingAgentœ,œidœ:œToolCallingAgent-vkEj2œ,œnameœ:œresponseœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-XbUZQ{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-XbUZQœ,œinputTypesœ:[œDataœ,œJSONœ,œDataFrameœ,œTableœ,œMessageœ],œtypeœ:œotherœ}",
+        "id": "xy-edge__ToolCallingAgent-vkEj2{\u0153dataType\u0153:\u0153ToolCallingAgent\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153name\u0153:\u0153response\u0153,\u0153output_types\u0153:[\u0153Message\u0153]}-ChatOutput-XbUZQ{\u0153fieldName\u0153:\u0153input_value\u0153,\u0153id\u0153:\u0153ChatOutput-XbUZQ\u0153,\u0153inputTypes\u0153:[\u0153Data\u0153,\u0153JSON\u0153,\u0153DataFrame\u0153,\u0153Table\u0153,\u0153Message\u0153],\u0153type\u0153:\u0153other\u0153}",
         "selected": false,
         "source": "ToolCallingAgent-vkEj2",
-        "sourceHandle": "{œdataTypeœ:œToolCallingAgentœ,œidœ:œToolCallingAgent-vkEj2œ,œnameœ:œresponseœ,œoutput_typesœ:[œMessageœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153ToolCallingAgent\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153name\u0153:\u0153response\u0153,\u0153output_types\u0153:[\u0153Message\u0153]}",
         "target": "ChatOutput-XbUZQ",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-XbUZQœ,œinputTypesœ:[œDataœ,œJSONœ,œDataFrameœ,œTableœ,œMessageœ],œtypeœ:œotherœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153input_value\u0153,\u0153id\u0153:\u0153ChatOutput-XbUZQ\u0153,\u0153inputTypes\u0153:[\u0153Data\u0153,\u0153JSON\u0153,\u0153DataFrame\u0153,\u0153Table\u0153,\u0153Message\u0153],\u0153type\u0153:\u0153other\u0153}"
       },
       {
         "animated": false,
@@ -172,12 +172,12 @@
             "type": "other"
           }
         },
-        "id": "xy-edge__SplitText-fJc4V{œdataTypeœ:œSplitTextœ,œidœ:œSplitText-fJc4Vœ,œnameœ:œdataframeœ,œoutput_typesœ:[œTableœ]}-Chroma-Zy7HS{œfieldNameœ:œingest_dataœ,œidœ:œChroma-Zy7HSœ,œinputTypesœ:[œDataœ,œDataFrameœ,œTableœ],œtypeœ:œotherœ}",
+        "id": "xy-edge__SplitText-fJc4V{\u0153dataType\u0153:\u0153SplitText\u0153,\u0153id\u0153:\u0153SplitText-fJc4V\u0153,\u0153name\u0153:\u0153dataframe\u0153,\u0153output_types\u0153:[\u0153Table\u0153]}-Chroma-Zy7HS{\u0153fieldName\u0153:\u0153ingest_data\u0153,\u0153id\u0153:\u0153Chroma-Zy7HS\u0153,\u0153inputTypes\u0153:[\u0153Data\u0153,\u0153DataFrame\u0153,\u0153Table\u0153],\u0153type\u0153:\u0153other\u0153}",
         "selected": false,
         "source": "SplitText-fJc4V",
-        "sourceHandle": "{œdataTypeœ:œSplitTextœ,œidœ:œSplitText-fJc4Vœ,œnameœ:œdataframeœ,œoutput_typesœ:[œTableœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153SplitText\u0153,\u0153id\u0153:\u0153SplitText-fJc4V\u0153,\u0153name\u0153:\u0153dataframe\u0153,\u0153output_types\u0153:[\u0153Table\u0153]}",
         "target": "Chroma-Zy7HS",
-        "targetHandle": "{œfieldNameœ:œingest_dataœ,œidœ:œChroma-Zy7HSœ,œinputTypesœ:[œDataœ,œDataFrameœ,œTableœ],œtypeœ:œotherœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153ingest_data\u0153,\u0153id\u0153:\u0153Chroma-Zy7HS\u0153,\u0153inputTypes\u0153:[\u0153Data\u0153,\u0153DataFrame\u0153,\u0153Table\u0153],\u0153type\u0153:\u0153other\u0153}"
       },
       {
         "animated": false,
@@ -200,12 +200,12 @@
             "type": "str"
           }
         },
-        "id": "xy-edge__Prompt Template-4YpuG{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-4YpuGœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-ToolCallingAgent-vkEj2{œfieldNameœ:œsystem_promptœ,œidœ:œToolCallingAgent-vkEj2œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "xy-edge__Prompt Template-4YpuG{\u0153dataType\u0153:\u0153Prompt Template\u0153,\u0153id\u0153:\u0153Prompt Template-4YpuG\u0153,\u0153name\u0153:\u0153prompt\u0153,\u0153output_types\u0153:[\u0153Message\u0153]}-ToolCallingAgent-vkEj2{\u0153fieldName\u0153:\u0153system_prompt\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153inputTypes\u0153:[\u0153Message\u0153],\u0153type\u0153:\u0153str\u0153}",
         "selected": false,
         "source": "Prompt Template-4YpuG",
-        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-4YpuGœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153Prompt Template\u0153,\u0153id\u0153:\u0153Prompt Template-4YpuG\u0153,\u0153name\u0153:\u0153prompt\u0153,\u0153output_types\u0153:[\u0153Message\u0153]}",
         "target": "ToolCallingAgent-vkEj2",
-        "targetHandle": "{œfieldNameœ:œsystem_promptœ,œidœ:œToolCallingAgent-vkEj2œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153system_prompt\u0153,\u0153id\u0153:\u0153ToolCallingAgent-vkEj2\u0153,\u0153inputTypes\u0153:[\u0153Message\u0153],\u0153type\u0153:\u0153str\u0153}"
       },
       {
         "animated": false,
@@ -228,12 +228,12 @@
             "type": "str"
           }
         },
-        "id": "xy-edge__ChatInput-xy2yV{œdataTypeœ:œChatInputœ,œidœ:œChatInput-xy2yVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-4YpuG{œfieldNameœ:œquestionœ,œidœ:œPrompt Template-4YpuGœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "xy-edge__ChatInput-xy2yV{\u0153dataType\u0153:\u0153ChatInput\u0153,\u0153id\u0153:\u0153ChatInput-xy2yV\u0153,\u0153name\u0153:\u0153message\u0153,\u0153output_types\u0153:[\u0153Message\u0153]}-Prompt Template-4YpuG{\u0153fieldName\u0153:\u0153question\u0153,\u0153id\u0153:\u0153Prompt Template-4YpuG\u0153,\u0153inputTypes\u0153:[\u0153Message\u0153],\u0153type\u0153:\u0153str\u0153}",
         "selected": false,
         "source": "ChatInput-xy2yV",
-        "sourceHandle": "{œdataTypeœ:œChatInputœ,œidœ:œChatInput-xy2yVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
+        "sourceHandle": "{\u0153dataType\u0153:\u0153ChatInput\u0153,\u0153id\u0153:\u0153ChatInput-xy2yV\u0153,\u0153name\u0153:\u0153message\u0153,\u0153output_types\u0153:[\u0153Message\u0153]}",
         "target": "Prompt Template-4YpuG",
-        "targetHandle": "{œfieldNameœ:œquestionœ,œidœ:œPrompt Template-4YpuGœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "targetHandle": "{\u0153fieldName\u0153:\u0153question\u0153,\u0153id\u0153:\u0153Prompt Template-4YpuG\u0153,\u0153inputTypes\u0153:[\u0153Message\u0153],\u0153type\u0153:\u0153str\u0153}"
       }
     ],
     "nodes": [
@@ -1421,7 +1421,7 @@
                 "title_case": false,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "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"
+                "value": ""
               },
               "temperature": {
                 "_input_type": "FloatInput",
@@ -2992,7 +2992,7 @@
                 "trace_as_metadata": true,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "WATSONX_PROJECT_ID"
+                "value": ""
               },
               "system_prompt": {
                 "_input_type": "MessageTextInput",
@@ -3212,7 +3212,7 @@
                 "title_case": false,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "y1q-lTlHUTbs4Yh5W37IjWV-vUflMZ1Is25ToYUQttnl"
+                "value": ""
               },
               "base_url": {
                 "_input_type": "DropdownInput",
@@ -3473,7 +3473,7 @@
                 "trace_as_metadata": true,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "91433073-c234-478a-a05e-b9c65c6bb2af"
+                "value": ""
               },
               "seed": {
                 "_input_type": "IntInput",
